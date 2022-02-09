@@ -1,6 +1,6 @@
 # Une brève histoire du changement climatique
-# Work in Progress, il reste encore beaucoup à faire.
-# Notamment tout un travail de (re)traitement de donneées
+Work in Progress, il reste encore beaucoup à faire.
+Notamment tout un travail de (re)traitement de donneées
 
 À travers cette brève histoire du changement climatique,
 grace à de nombreux graphiques et cartes, vous découvrirez
