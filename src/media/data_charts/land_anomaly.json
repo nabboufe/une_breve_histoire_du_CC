@@ -1,0 +1,566 @@
+[
+    {
+        "year": 1880,
+        "land_annual": -0.55
+    },
+    {
+        "year": 1881,
+        "land_annual": -0.35
+    },
+    {
+        "year": 1882,
+        "land_annual": -0.45
+    },
+    {
+        "year": 1883,
+        "land_annual": -0.55
+    },
+    {
+        "year": 1884,
+        "land_annual": -0.81
+    },
+    {
+        "year": 1885,
+        "land_annual": -0.73
+    },
+    {
+        "year": 1886,
+        "land_annual": -0.58
+    },
+    {
+        "year": 1887,
+        "land_annual": -0.67
+    },
+    {
+        "year": 1888,
+        "land_annual": -0.53
+    },
+    {
+        "year": 1889,
+        "land_annual": -0.25
+    },
+    {
+        "year": 1890,
+        "land_annual": -0.51
+    },
+    {
+        "year": 1891,
+        "land_annual": -0.45
+    },
+    {
+        "year": 1892,
+        "land_annual": -0.52
+    },
+    {
+        "year": 1893,
+        "land_annual": -0.5
+    },
+    {
+        "year": 1894,
+        "land_annual": -0.4
+    },
+    {
+        "year": 1895,
+        "land_annual": -0.4
+    },
+    {
+        "year": 1896,
+        "land_annual": -0.37
+    },
+    {
+        "year": 1897,
+        "land_annual": -0.19
+    },
+    {
+        "year": 1898,
+        "land_annual": -0.33
+    },
+    {
+        "year": 1899,
+        "land_annual": -0.13
+    },
+    {
+        "year": 1900,
+        "land_annual": -0.02
+    },
+    {
+        "year": 1901,
+        "land_annual": -0.04
+    },
+    {
+        "year": 1902,
+        "land_annual": -0.23
+    },
+    {
+        "year": 1903,
+        "land_annual": -0.23
+    },
+    {
+        "year": 1904,
+        "land_annual": -0.36
+    },
+    {
+        "year": 1905,
+        "land_annual": -0.18
+    },
+    {
+        "year": 1906,
+        "land_annual": -0.09
+    },
+    {
+        "year": 1907,
+        "land_annual": -0.52
+    },
+    {
+        "year": 1908,
+        "land_annual": -0.32
+    },
+    {
+        "year": 1909,
+        "land_annual": -0.37
+    },
+    {
+        "year": 1910,
+        "land_annual": -0.29
+    },
+    {
+        "year": 1911,
+        "land_annual": -0.38
+    },
+    {
+        "year": 1912,
+        "land_annual": -0.42
+    },
+    {
+        "year": 1913,
+        "land_annual": -0.25
+    },
+    {
+        "year": 1914,
+        "land_annual": 0.01
+    },
+    {
+        "year": 1915,
+        "land_annual": -0.06
+    },
+    {
+        "year": 1916,
+        "land_annual": -0.43
+    },
+    {
+        "year": 1917,
+        "land_annual": -0.63
+    },
+    {
+        "year": 1918,
+        "land_annual": -0.44
+    },
+    {
+        "year": 1919,
+        "land_annual": -0.29
+    },
+    {
+        "year": 1920,
+        "land_annual": -0.3
+    },
+    {
+        "year": 1921,
+        "land_annual": -0.04
+    },
+    {
+        "year": 1922,
+        "land_annual": -0.24
+    },
+    {
+        "year": 1923,
+        "land_annual": -0.2
+    },
+    {
+        "year": 1924,
+        "land_annual": -0.2
+    },
+    {
+        "year": 1925,
+        "land_annual": -0.08
+    },
+    {
+        "year": 1926,
+        "land_annual": 0.06
+    },
+    {
+        "year": 1927,
+        "land_annual": -0.15
+    },
+    {
+        "year": 1928,
+        "land_annual": -0.03
+    },
+    {
+        "year": 1929,
+        "land_annual": -0.44
+    },
+    {
+        "year": 1930,
+        "land_annual": -0.02
+    },
+    {
+        "year": 1931,
+        "land_annual": 0.09
+    },
+    {
+        "year": 1932,
+        "land_annual": 0.06
+    },
+    {
+        "year": 1933,
+        "land_annual": -0.26
+    },
+    {
+        "year": 1934,
+        "land_annual": 0.06
+    },
+    {
+        "year": 1935,
+        "land_annual": -0.1
+    },
+    {
+        "year": 1936,
+        "land_annual": -0.05
+    },
+    {
+        "year": 1937,
+        "land_annual": 0.04
+    },
+    {
+        "year": 1938,
+        "land_annual": 0.26
+    },
+    {
+        "year": 1939,
+        "land_annual": 0.19
+    },
+    {
+        "year": 1940,
+        "land_annual": 0.13
+    },
+    {
+        "year": 1941,
+        "land_annual": 0.14
+    },
+    {
+        "year": 1942,
+        "land_annual": 0.08
+    },
+    {
+        "year": 1943,
+        "land_annual": 0.11
+    },
+    {
+        "year": 1944,
+        "land_annual": 0.19
+    },
+    {
+        "year": 1945,
+        "land_annual": -0.08
+    },
+    {
+        "year": 1946,
+        "land_annual": 0.03
+    },
+    {
+        "year": 1947,
+        "land_annual": 0.13
+    },
+    {
+        "year": 1948,
+        "land_annual": 0.08
+    },
+    {
+        "year": 1949,
+        "land_annual": -0.04
+    },
+    {
+        "year": 1950,
+        "land_annual": -0.28
+    },
+    {
+        "year": 1951,
+        "land_annual": -0.08
+    },
+    {
+        "year": 1952,
+        "land_annual": -0.01
+    },
+    {
+        "year": 1953,
+        "land_annual": 0.24
+    },
+    {
+        "year": 1954,
+        "land_annual": -0.1
+    },
+    {
+        "year": 1955,
+        "land_annual": -0.07
+    },
+    {
+        "year": 1956,
+        "land_annual": -0.37
+    },
+    {
+        "year": 1957,
+        "land_annual": 0.02
+    },
+    {
+        "year": 1958,
+        "land_annual": 0.1
+    },
+    {
+        "year": 1959,
+        "land_annual": 0.06
+    },
+    {
+        "year": 1960,
+        "land_annual": -0.09
+    },
+    {
+        "year": 1961,
+        "land_annual": 0.14
+    },
+    {
+        "year": 1962,
+        "land_annual": 0.08
+    },
+    {
+        "year": 1963,
+        "land_annual": 0.17
+    },
+    {
+        "year": 1964,
+        "land_annual": -0.27
+    },
+    {
+        "year": 1965,
+        "land_annual": -0.14
+    },
+    {
+        "year": 1966,
+        "land_annual": -0.05
+    },
+    {
+        "year": 1967,
+        "land_annual": 0.02
+    },
+    {
+        "year": 1968,
+        "land_annual": -0.14
+    },
+    {
+        "year": 1969,
+        "land_annual": -0.13
+    },
+    {
+        "year": 1970,
+        "land_annual": 0.03
+    },
+    {
+        "year": 1971,
+        "land_annual": -0.03
+    },
+    {
+        "year": 1972,
+        "land_annual": -0.16
+    },
+    {
+        "year": 1973,
+        "land_annual": 0.31
+    },
+    {
+        "year": 1974,
+        "land_annual": -0.13
+    },
+    {
+        "year": 1975,
+        "land_annual": 0.13
+    },
+    {
+        "year": 1976,
+        "land_annual": -0.25
+    },
+    {
+        "year": 1977,
+        "land_annual": 0.23
+    },
+    {
+        "year": 1978,
+        "land_annual": 0.05
+    },
+    {
+        "year": 1979,
+        "land_annual": 0.11
+    },
+    {
+        "year": 1980,
+        "land_annual": 0.34
+    },
+    {
+        "year": 1981,
+        "land_annual": 0.53
+    },
+    {
+        "year": 1982,
+        "land_annual": 0.07
+    },
+    {
+        "year": 1983,
+        "land_annual": 0.43
+    },
+    {
+        "year": 1984,
+        "land_annual": 0.09
+    },
+    {
+        "year": 1985,
+        "land_annual": 0.06
+    },
+    {
+        "year": 1986,
+        "land_annual": 0.25
+    },
+    {
+        "year": 1987,
+        "land_annual": 0.39
+    },
+    {
+        "year": 1988,
+        "land_annual": 0.61
+    },
+    {
+        "year": 1989,
+        "land_annual": 0.34
+    },
+    {
+        "year": 1990,
+        "land_annual": 0.66
+    },
+    {
+        "year": 1991,
+        "land_annual": 0.58
+    },
+    {
+        "year": 1992,
+        "land_annual": 0.25
+    },
+    {
+        "year": 1993,
+        "land_annual": 0.23
+    },
+    {
+        "year": 1994,
+        "land_annual": 0.47
+    },
+    {
+        "year": 1995,
+        "land_annual": 0.74
+    },
+    {
+        "year": 1996,
+        "land_annual": 0.4
+    },
+    {
+        "year": 1997,
+        "land_annual": 0.58
+    },
+    {
+        "year": 1998,
+        "land_annual": 0.92
+    },
+    {
+        "year": 1999,
+        "land_annual": 0.69
+    },
+    {
+        "year": 2000,
+        "land_annual": 0.61
+    },
+    {
+        "year": 2001,
+        "land_annual": 0.8
+    },
+    {
+        "year": 2002,
+        "land_annual": 0.99
+    },
+    {
+        "year": 2003,
+        "land_annual": 0.92
+    },
+    {
+        "year": 2004,
+        "land_annual": 0.76
+    },
+    {
+        "year": 2005,
+        "land_annual": 1.09
+    },
+    {
+        "year": 2006,
+        "land_annual": 0.94
+    },
+    {
+        "year": 2007,
+        "land_annual": 1.18
+    },
+    {
+        "year": 2008,
+        "land_annual": 0.87
+    },
+    {
+        "year": 2009,
+        "land_annual": 0.94
+    },
+    {
+        "year": 2010,
+        "land_annual": 1.11
+    },
+    {
+        "year": 2011,
+        "land_annual": 0.96
+    },
+    {
+        "year": 2012,
+        "land_annual": 0.97
+    },
+    {
+        "year": 2013,
+        "land_annual": 1.05
+    },
+    {
+        "year": 2014,
+        "land_annual": 1.02
+    },
+    {
+        "year": 2015,
+        "land_annual": 1.31
+    },
+    {
+        "year": 2016,
+        "land_annual": 1.47
+    },
+    {
+        "year": 2017,
+        "land_annual": 1.36
+    },
+    {
+        "year": 2018,
+        "land_annual": 1.21
+    },
+    {
+        "year": 2019,
+        "land_annual": 1.42
+    },
+    {
+        "year": 2020,
+        "land_annual": 1.58
+    }
+]
